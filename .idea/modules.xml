@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kykim/kykim.iml" filepath="$PROJECT_DIR$/kykim/kykim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/saltal.iml" filepath="$PROJECT_DIR$/.idea/saltal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swsong/swsong.iml" filepath="$PROJECT_DIR$/swsong/swsong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yskim/yskim.iml" filepath="$PROJECT_DIR$/yskim/yskim.iml" />
+    </modules>
+  </component>
+</project>
